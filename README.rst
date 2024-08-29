@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftheandrew168%2Fbronzebeard.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftheandrew168%2Fbronzebeard?ref=badge_shield)
+
 Bronzebeard
 ===========
 Bronzebeard is a simple, standalone assembler for developing bare metal `RISC-V <https://en.wikipedia.org/wiki/Riscv>`_ programs.
@@ -56,3 +58,7 @@ Bronzebeard's tests are written using `pytest <https://docs.pytest.org/en/6.2.x/
 Once installed, the tests can be run via::
 
   pytest
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftheandrew168%2Fbronzebeard.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftheandrew168%2Fbronzebeard?ref=badge_large)
